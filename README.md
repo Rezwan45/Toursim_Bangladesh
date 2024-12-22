@@ -44,7 +44,7 @@ This repository hosts the source code and assets for a **Tourism Website**, whic
 ![Homepage Screenshot]()
 
 ### Destination Page
-![Destination Page Screenshot](screenshots/destination-page.png)
+![Destination Page Screenshot](Destination.png)
 
 ### Packages Page
 ![Packages Page Screenshot](screenshots/packages-page.png)
