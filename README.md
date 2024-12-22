@@ -40,19 +40,12 @@ This repository hosts the source code and assets for a **Tourism Website**, whic
 
 ## Screenshots
 
-### Homepage
-![Homepage Screenshot]()
-
 ### Destination Page
 ![Destination Page Screenshot](Destination.png)
 
 ### Packages Page
-![Packages Page Screenshot](screenshots/packages-page.png)
+![Packages Page Screenshot](Package.png)
 
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
