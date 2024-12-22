@@ -23,7 +23,7 @@ This repository hosts the source code and assets for a **Tourism Website**, whic
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tourism-website.git
+   https://github.com/Rezwan45/Toursim_Bangladesh.git
    ```
 
 2. Navigate to the project directory:
@@ -40,7 +40,15 @@ This repository hosts the source code and assets for a **Tourism Website**, whic
 
 ## Screenshots
 
-Include screenshots of the homepage, destination pages, and packages here for better visualization.
+### Homepage
+![Homepage Screenshot]()
+
+### Destination Page
+![Destination Page Screenshot](screenshots/destination-page.png)
+
+### Packages Page
+![Packages Page Screenshot](screenshots/packages-page.png)
+
 
 ## License
 
